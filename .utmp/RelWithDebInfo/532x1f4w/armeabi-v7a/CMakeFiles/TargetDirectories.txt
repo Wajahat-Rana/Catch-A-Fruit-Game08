@@ -1,0 +1,5 @@
+D:/Unity Projects/Dino-Game-2D/Catch-A-Fruit-Game08/.utmp/RelWithDebInfo/532x1f4w/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Unity Projects/Dino-Game-2D/Catch-A-Fruit-Game08/.utmp/RelWithDebInfo/532x1f4w/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+D:/Unity Projects/Dino-Game-2D/Catch-A-Fruit-Game08/.utmp/RelWithDebInfo/532x1f4w/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/Unity Projects/Dino-Game-2D/Catch-A-Fruit-Game08/.utmp/RelWithDebInfo/532x1f4w/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+D:/Unity Projects/Dino-Game-2D/Catch-A-Fruit-Game08/.utmp/RelWithDebInfo/532x1f4w/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
